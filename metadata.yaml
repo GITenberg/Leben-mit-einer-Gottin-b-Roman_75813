@@ -1,0 +1,33 @@
+_repo: Leben-mit-einer-Gottin-b-Roman_75813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brod, Max
+    alias: Brod, Maks
+    birthdate: 1884
+    deathdate: 1968
+    gutenberg_agent_id: '37224'
+    url: http://www.gutenberg.org/2009/agents/37224
+    wikipedia: https://en.wikipedia.org/wiki/Max_Brod
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75813'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/wu.89004353298
+pgterms:marc905: 20191014020514brod
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: '  $aMuenchen :$bKurt Wolff Verlag, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Leben mit einer Göttin : $b Roman'
+url: http://www.gutenberg.org/ebooks/75813
